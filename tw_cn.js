@@ -1,6 +1,6 @@
+#link:http://achillessatan.github.io/2016/02/01/2016020101/
 ####################
-<a id="translateLink" href="javascript:translatePage();">繁體</a>
-
+#<a id="translateLink" href="javascript:translatePage();">繁體</a>
 ########################
 
 var defaultEncoding = 2; // 网站默认语言，1: 繁體中文, 2: 简体中文
@@ -110,7 +110,7 @@ function translateInitilization() {
 	}
 }
 #############################
-页脚调用
+##############################页脚调用
 
 <script type="text/javascript" src="http://achillessatan.github.io/js/tw_cn.js"></script>
 <script type="text/javascript">
